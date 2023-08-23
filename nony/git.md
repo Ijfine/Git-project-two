@@ -18,13 +18,13 @@ create a working folder (*mkdir DevOps*)
 
 move into the folder (*cd DevOps*)
 
-then run the Git command (*git init*)
+then run the git command (*git init*)
 
 ![initializing Git repository](https://github.com/Ijfine/Git-project-two/assets/140953321/cc9ba28b-7242-4a34-b0ef-8706e506f9bf)
 
 ## Making commit
 
-**git commit** command captures the snapshot of your entire repository at a specific time. When a commit is created, it makes a record of exactly how all the files and directories looked at the moment of creation. 
+**git commit** command captures the snapshot of your entire repository at a specific time. When a commit is created, it makes a record of exactly how all the files and directories looked at the moment of creation. There are options that you can include with *git commit*, **-m** option stands for message and **-a** option stands for all.
 
 create a file inside your working folder (*touch index.txt*)
 
@@ -74,13 +74,13 @@ Inorder to create a repository for your project, you need to set up a GitHub acc
 
 ![create repository](https://github.com/Ijfine/Git-project-two/assets/140953321/a01963a4-d65c-4da1-9411-aedbb1878f90)
 
-![repository 2](https://github.com/Ijfine/Git-project-two/assets/140953321/4100af40-e2be-46b7-aa03-4507ea508a7d)
+![repository](https://github.com/Ijfine/Git-project-two/assets/140953321/c1272fff-e0b0-4188-bfd9-215d81209597)
 
-Having created a GitHub account and repository, the next step is to send a copy of your work to your repository in github
+Having created a GitHub account and repository, the next step is to send a copy of your work to your repository in github.
 
-Copy git remote add origin <link to your github repo>
+Copy *git remote add origin <link to your github repo>*
 
-git remote add origin https://github.com/Ijfine/Git-project.git
+*git remote add origin https://github.com/Ijfine/Git-project.git*
 
 ![push repository](https://github.com/Ijfine/Git-project-two/assets/140953321/424895dd-ed63-4066-88ab-ad776f1dbc81)
 
@@ -92,9 +92,9 @@ Push the content to your remote repo
 
 ## Cloning your repository
 
-**git clone* command helps you to make a copy of your remote repository.
+**git clone** command helps you to make a copy of your remote repository.
 
-use this command *git clone, <link to your remote repository> 
+use this command *git clone <link to your remote repository* 
 
 (*git clone https://github.com/Ijfine/Git-project.git*)
 
