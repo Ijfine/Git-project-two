@@ -74,6 +74,8 @@ Inorder to create a repository for your project, you need to set up a GitHub acc
 
 ![create repository](https://github.com/Ijfine/Git-project-two/assets/140953321/a01963a4-d65c-4da1-9411-aedbb1878f90)
 
+![repository 2](https://github.com/Ijfine/Git-project-two/assets/140953321/4100af40-e2be-46b7-aa03-4507ea508a7d)
+
 Having created a GitHub account and repository, the next step is to send a copy of your work to your repository in github
 
 Copy git remote add origin <link to your github repo>
